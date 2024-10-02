@@ -1,4 +1,4 @@
-const { Employee, Manager, SalesPerson, SoftwareEngineer } = require('./index');
+const {Employee, Manager, SalesPerson, SoftwareEngineer } = require('./index');
 
 describe("Employee tests without static methods", () => {
     const preston = new Employee("Preston", "Engineer", 100000);

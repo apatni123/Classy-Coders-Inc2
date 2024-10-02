@@ -1,7 +1,7 @@
 class Employee {
     #salary
     #isHired
-    constructor(name,position,salary,isHired){
+    constructor(name,position,salary){
         this.name=name
         this.position=position
         this.#salary=salary
@@ -32,6 +32,11 @@ class Employee {
     
 }
 
-module.exports = {
-    Employee,
-}
+
+
+
+
+
+
+
+module.exports = Employee

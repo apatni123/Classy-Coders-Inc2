@@ -5,6 +5,5 @@ class SalesPerson {
     
 }
 
-module.exports = {
-    SalesPerson,
-}
+module.exports = 
+    SalesPerson
